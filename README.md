@@ -1,6 +1,9 @@
 Trabajo Final Integrador
+
 Curso de Diseño Web 2022
+
 Descripción: 
+
 Desarrollar un sitio web según los requerimientos mínimos establecidos debajo para ser colocado en el servidor de páginas de GitHub. 
 Entrega
 El trabajo será considerado entregado cuando se coloco la URL del repositorio y la URL de la página web en GitHub en la tarea dentro del campus en classroom. 
