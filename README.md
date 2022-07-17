@@ -9,7 +9,9 @@ Entrega
 El trabajo será considerado entregado cuando se coloco la URL del repositorio y la URL de la página web en GitHub en la tarea dentro del campus en classroom. 
 Los puntos indicados en los requerimientos mínimos deben ser completados en un 100% para considerar finalizado el trabajo.
 El repositorio no debe contener ningún otro desarrollo ajeno a la actividad. 
+
 Requerimientos mínimos: 
+
 Ser 100% responsive. Es decir que el aspecto del contenido del sitio debe ser optimizado para computadoras de escritorio, tablets y dispositivos móviles.
 Utilizar Bootstrap. 
 Tener su propia hoja de estilos además de la de Bootstrap. 
